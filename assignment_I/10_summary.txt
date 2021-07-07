@@ -1,0 +1,3 @@
+Python is an interpreted high-level general-purpose programming language.
+
+I learned about how to declare a variables in right way in the program. I also got to know the use of  math module which is python math library that provides us access to some math functions. I also learned to convert decimal into binary and hexadecimal in python. 
