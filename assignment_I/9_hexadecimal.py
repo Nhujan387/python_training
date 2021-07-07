@@ -1,0 +1,1 @@
+print("hexadecimal of 1008 is:",hex(1008))

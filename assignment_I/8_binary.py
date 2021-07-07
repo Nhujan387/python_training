@@ -1,0 +1,1 @@
+print("binary of 108 is {0:b}".format(int(108)))
